@@ -3,3 +3,19 @@
 #user-form input {
     background-color: #c4c4c4;
 }
+
+.signup-form-page {
+    /* border: red solid; */
+}
+
+label {
+    /* border: red solid; */
+    width: 100%;
+}
+
+textarea, input {
+    background: white;
+    width: 90%;
+    resize: none;
+
+}
