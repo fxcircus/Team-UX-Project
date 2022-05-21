@@ -9,7 +9,9 @@ import ProfilePage from '../ProfilePage/ProfilePage';
 import CreateProject from '../CreateProject/CreateProject';
 import About from '../About/About';
 import ProjectPage from '../ProjectPage/ProjectPage';
+import Inbox from '../Inbox/Inbox'
 import './App.css';
+
 export default function App() {
   const [ user, setUser ] = useState(null)
 
